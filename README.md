@@ -10,4 +10,4 @@ The problems included here are chosen based on their relevance, difficulty, and 
 
 * [freeCodeCamp – Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 
-* Additional handpicked challenges from LeetCode
+* Additional handpicked challenges from [LeetCode](https://leetcode.com/)
