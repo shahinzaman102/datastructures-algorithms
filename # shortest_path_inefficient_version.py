@@ -1,3 +1,8 @@
+# Inefficient Version:
+# --------------------
+# Find Shortest Path from Source to Destination in a Grid-Based City  or
+# Find the shortest path in a grid from a source cell to a destination cell
+
 def shortest_path_brute_force(grid, x, y, dest_x, dest_y, visited):
     rows, cols = len(grid), len(grid[0])
     if x < 0 or y < 0 or x >= rows or y >= cols:

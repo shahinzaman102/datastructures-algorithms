@@ -12,4 +12,4 @@ The problems included here are chosen based on their relevance, difficulty, and 
 
 * Additional handpicked challenges from [LeetCode](https://leetcode.com/)
 
-Suggested Resource: Watch this [YouTube video on Data Structures & Algorithms](https://www.youtube.com/) for a comprehensive overview.
+Suggested Resource: Watch this [YouTube video on Data Structures & Algorithms](https://youtu.be/DsOPTtK_760) for a comprehensive overview.
